@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631376255 source:c:\users\wegi\desktop\des\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+
